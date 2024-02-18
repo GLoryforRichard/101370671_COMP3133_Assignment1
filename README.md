@@ -1,9 +1,6 @@
 # GraphQL API Test Cases
 
 
-
-## Test Cases
-
 ### 1. Signup
 
 **Mutation**: Allows a user to create a new account.
